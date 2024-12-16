@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PreCafe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quantitat">Quantitat</string>
+    <string name="next">Next</string>
+    <string name="nextBegudes">next</string>
+    <string name="begudes">BEGUDES</string>
+    <string name="_1r_plat">1r PLAT</string>
+    <string name="total">total</string>
+    <string name="total_beguda">total beguda</string>
+    <string name="quantitat_beguda">quantitat beguda</string>
+    <string name="preu_unitari_beguda">preu unitari beguda</string>
+    <string name="nom_beguda">nom beguda</string>
+    <string name="total_primer_plat">total primer plat</string>
+    <string name="quantitat_primer_plat">quantitat primer plat</string>
+    <string name="preu_unitari_primer_plat">preu unitari primer plat</string>
+    <string name="nom_primer_plat">nom primer plat</string>
+    <string name="total_tablerow">Total</string>
+    <string name="quantitat_tablerow">Quantitat</string>
+    <string name="preu_unitari">Preu Unitari</string>
+    <string name="plat">Plat</string>
+    <string name="total_titol">Total</string>
+</resources>
